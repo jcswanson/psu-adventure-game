@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+ 
+ <string>What basketball star is referred to as "The Mailman?"</string>
+ <string>Karl Malone</string>
+ <string>Larry Byrd</string>
+ <string>Michael Jordan</string>
+ <string>Magic Johnson</string>
+ <string>Who was the youngest boxer to win the heavyweight title?</string>
+ <string>Muhammad Ali</string>
+ <string>Mike Tyson</string>
+ <string>Joe Louis</string>
+ <string>Sugar Ray Robinson</string>
+ <string>How many of the original five Harlem Globetrotters were from Harlem?</string>
+ <string>One</string>
+ <string>Three</string>
+ <string>Zero</string>
+ <string>Two</string>
+ <string>Who became a major league rookie at the age of 43 in 1948?</string>
+ <string>Babe Ruth</string>
+ <string>Hank Aaron</string>
+ <string>Jackie Robinson</string> 
+ <string>Leroy "Satchel" Paige</string>
+ </java>

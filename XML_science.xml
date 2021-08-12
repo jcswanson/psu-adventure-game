@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+
+ <string>Which of your body parts continue to grow throughout your life?</string>
+ <string>Nose and ears</string>
+ <string>Eyes and mouth</string>
+ <string>Arms and legs</string>
+ <string>Fingers and toes</string>
+ <string>A phlebotomist extracts what from the human body?</string>
+ <string>Organs</string>
+ <string>Blood</string>
+ <string>Mucus</string>
+ <string>Plasma</string>
+ <string>After arriving in America, who did Nikola Tesla work for?</string>
+ <string>Himself</string>
+ <string>The Wright Brothers</string>
+ <string>Thomas Edison</string>
+ <string>Alexander Graham Bell</string>
+ <string>Who is known as the father of mathematics?</string>
+ <string>Pythagorean</string>
+ <string>Boyle</string>
+ <string>Socrates</string>
+ <string>Archimedes</string>
+ </java>

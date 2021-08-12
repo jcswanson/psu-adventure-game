@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+ <string>What is Yoda's last name?</string>
+ <string>He doesn't have one</string>
+ <string>Skywalker</string>
+ <string>Doller</string>
+ <string>Ackbar</string>
+ <string>What powers light sabers?</string>
+ <string>Krystal's crystals</string>
+ <string>Ilum crystals</string>
+ <string>Falcon crystals</string>
+ <string>Quartz crystals</string>
+ <string>What does Harry Potter give Dobby to free him?</string>
+ <string>A wand</string>
+ <string>A quidditch</string>
+ <string>A sock</string>
+ <string>An alohamora</string>
+ <string>What planet is home to Chewbacca and the Wookiees?</string>
+ <string>Tatooine</string>
+ <string>Curosant</string>
+ <string>Hoth</string>
+ <string>Kashyyyk</string>
+ </java>
